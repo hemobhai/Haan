@@ -61,9 +61,9 @@ The Haan Sanitizer Clone Project aims to replicate the core functionality of the
 ## Contact
 **For questions, feedback, or collaboration, feel free to reach out to any of the team members:**
 
-- Himanshu =>  **Home Pag**e: GitHub Profile
-- Vikas Chaturvedi => **Login & Signup page**: GitHub Profile
-- Roushan => **Product Page**: GitHub Profile
-- Vivek => **Productdetail Page**: GitHub Profile
-- Amrit => **Cart Page & Payment Page**: GitHub Profile
+- Himanshu =>  **Home Pag**e: https://github.com/hemobhai
+- Vikas Chaturvedi => **Login & Signup page**: https://github.com/Vikaschaturvedi167
+- Roushan => **Product Page**: https://github.com/Roushan99
+- Vivek => **Productdetail Page**: https://github.com/105vivek
+- Amrit => **Cart Page & Payment Page**: https://github.com/Amritchandra
 
